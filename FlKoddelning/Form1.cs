@@ -12,6 +12,10 @@ namespace FlKoddelning
 {
     public partial class Form1 : Form
     {
+        public void EriksMetod()
+        {
+            // en ny metod...
+        }
         public Form1()
         {
             InitializeComponent();
