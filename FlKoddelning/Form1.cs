@@ -31,6 +31,8 @@ namespace FlKoddelning
         {
             MessageBox.Show("Det här finns bara i den nya branchen och numera i master också");
             MessageBox.Show("Mbox1");
+            MessageBox.Show("Mbox2");
+            MessageBox.Show("Mbox3");
         }
     }
 }
