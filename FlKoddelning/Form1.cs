@@ -19,7 +19,7 @@ namespace FlKoddelning
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hej det här kommer från Erik. Och det här från mig");
+            MessageBox.Show("Hej det här kommer från Erik. Och det här från mig. Nu har texten utökats ytterligare");
         }
     }
 }
