@@ -35,6 +35,7 @@ namespace FlKoddelning
             MessageBox.Show("Mbox3");
             MessageBox.Show("Mbox5");
             MessageBox.Show("Mbox6");
+            MessageBox.Show("Mbox6");
         }
     }
 }
