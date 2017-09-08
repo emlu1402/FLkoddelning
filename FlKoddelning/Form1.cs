@@ -29,7 +29,7 @@ namespace FlKoddelning
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Det här finns bara i den nya branchen");
+            MessageBox.Show("Det här finns bara i den nya branchen.");
         }
     }
 }
